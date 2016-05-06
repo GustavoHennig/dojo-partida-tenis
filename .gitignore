@@ -4,3 +4,4 @@ build/**
 dojo-java.iml
 dojo-java.ipr
 dojo-java.iws
+/bin/
